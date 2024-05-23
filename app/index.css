@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-family: "Shrikhand", serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
